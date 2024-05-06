@@ -5,7 +5,8 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
 
 For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
 
-![Sketch](https://github.com/karenreyesss/sql-challenge/assets/151306990/7116fed3-3cb6-4550-b9ce-edea6bbc1d5e)
+![ERD](https://github.com/karenreyesss/sql-challenge/assets/151306990/da03097d-25f6-48cc-a344-0dc5ddc4c149)
+
 
 Data Analysis
 
