@@ -8,7 +8,7 @@ For this project, you’ll design the tables to hold the data from the CSV files
 ![ERD](https://github.com/karenreyesss/sql-challenge/assets/151306990/da03097d-25f6-48cc-a344-0dc5ddc4c149)
 
 
-Data Analysis
+### Data Analysis
 
 List the employee number, last name, first name, sex, and salary of each employee.
 
